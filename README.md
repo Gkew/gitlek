@@ -42,16 +42,12 @@ _Userstory 004_
 const cat = "I'm a cat!"
 ```
 
-<<<<<<< HEAD
-
-
 
 _Userstory 006_
 ```
-|Cat names | Cat age |
-| :---     |  ---:    |
-|Konrad    | 12y     |
-|Lars      | 3y      |
-=======
-## US 05
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 ```
