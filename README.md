@@ -52,12 +52,11 @@ _Userstory 006_
 | col 3 is | right-aligned |    $1 |
 ```
 
-## US 05
-```
+## US 05, Links
+
 [GitHub](https://github.com "Link to Github")
 
 
-```
 _Userstory 007_
 ```
 *This is italic with asterix* and _This is italic with underlines_
