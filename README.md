@@ -54,5 +54,7 @@ _Userstory 006_
 
 ## US 05
 ```
-[GitHub](https://github.com)
+[GitHub](https://github.com "Link to Github")
+
+
 ```
