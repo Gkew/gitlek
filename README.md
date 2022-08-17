@@ -34,5 +34,5 @@ classDiagram
 ```
 _Userstory 003_
 ```
-![image](desktop/katt.png)
+[image](desktop/katt.png)
 ```
