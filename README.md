@@ -56,3 +56,7 @@ _Userstory 006_
 ```
 [GitHub](https://github.com)
 ```
+_Userstory 007_
+```
+*This is italic with asterix* and _This is italic with underlines_
+```
