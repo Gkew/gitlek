@@ -49,7 +49,7 @@ const cat = "I'm a cat!"
 _Userstory 006_
 ```
 |Cat names | Cat age |
-| :---     |  --:    |
+| :---     |  ---:    |
 |Konrad    | 12y     |
 |Lars      | 3y      |
 =======
