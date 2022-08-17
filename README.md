@@ -35,7 +35,7 @@ classDiagram
 _Userstory 003_
 <img src="https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png" />
 ```
-![image](https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png)
+![image]("https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png")
 ```
 _Userstory 004_
 ```js
