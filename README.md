@@ -42,6 +42,7 @@ _Userstory 004_
 const cat = "I'm a cat!"
 ```
 
+<<<<<<< HEAD
 
 
 
@@ -50,4 +51,9 @@ _Userstory 006_
 |Cat names | Cat age |
 |Konrad    | 12y     |
 |Lars      | 3y      |
+=======
+## US 05
+```
+[github](https://www.github.com)
+>>>>>>> d8b89f0571e11a7e8e90b8d4ae427264e54540b3
 ```
