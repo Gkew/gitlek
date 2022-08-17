@@ -9,6 +9,7 @@ _Userstory 002_
 ```java
 Något med java
 ```
+``` mermaid
 classDiagram
     Animal <|-- Duck
     Animal <|-- Fish
@@ -30,3 +31,4 @@ classDiagram
         +bool is_wild
         +run()
     }
+```
