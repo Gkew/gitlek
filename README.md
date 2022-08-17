@@ -37,3 +37,7 @@ _Userstory 003_
 ```
 ![image](https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png)
 ```
+_Userstory 004_
+```js
+const cat = "I'm a cat!"
+```
