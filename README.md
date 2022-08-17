@@ -62,14 +62,15 @@ _Userstory 007_
 
 *This is italic with asterix* and _This is italic with underlines_
 
-## US 10, Lists
-```
+## US 10, Lists`
 *orderd list*
+```
 1. Hej
 2. På
 3. Dig
-
+```
 **unorderd list**
+```
 - På
 - Dig
 - Hej
